@@ -1,0 +1,27 @@
+.home{
+    margin-top: 90px;
+}
+
+/* Search Field Style */
+.search-field{
+    background-color: #e4e2e2;
+    border:none;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding:5px 200px 5px 10px ;
+}
+.search-btn{
+    border:none;
+    color: white;
+    font-weight: bold;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 5px 25px;
+    background-color: #3F90FC;
+}
+
+/* Services Field Style */
+
+.services-field{
+    margin-top: 80px;
+}
